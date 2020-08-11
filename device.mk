@@ -93,7 +93,7 @@ PRODUCT_PACKAGES += \
 # Trust
 PRODUCT_PACKAGES += \
     lineage.trust@1.0-service
-    
+
 # KPOC
 PRODUCT_PACKAGES += \
     libsuspend
