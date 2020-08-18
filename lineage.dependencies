@@ -1,8 +1,14 @@
 [
-    {
+  {
     "remote":      "github",
     "repository":  "LineageOS/android_hardware_mediatek",
     "target_path": "hardware/mediatek",
     "branch":      "lineage-17.1"
+  }
+  {
+    "remote":      "github",
+    "repository":  "CPH1859/android_kernel_oppo_mt6771",
+    "target_path": "kernel/oppo/mt6771",
+    "branch":      "stock"
   }
 ]
