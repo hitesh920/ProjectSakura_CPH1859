@@ -1,3 +1,5 @@
+LOCAL_PATH := $(call my-dir)
+
 include $(CLEAR_VARS)
 LOCAL_MODULE := OPScreenRecorder
 LOCAL_SRC_FILES := priv-app/$(LOCAL_MODULE).apk
