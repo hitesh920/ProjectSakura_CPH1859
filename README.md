@@ -23,7 +23,6 @@ Device Tree for Realme 1. The 3GB variant has codename CPH1861 whereas the 4/6GB
 1. Selinux is permissive.
 2. Video codec issues in all Chromium based browser (minimal).
 3. VoLTE
-4. No face Unlock.
 
 ### Spec Sheet
 Feature | Specification
