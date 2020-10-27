@@ -95,3 +95,6 @@ debug.egl.profiler=1
 debug.egl.hw=1
 debug.composition.type=gpu 
 
+#VoLTE
+persist.vendor.volte_support=0
+persist.vendor.mtk.volte.enable=0
