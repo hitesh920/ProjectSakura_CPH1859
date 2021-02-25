@@ -94,6 +94,7 @@ debug.performance.tuning=1
 debug.egl.profiler=1 
 debug.egl.hw=1
 debug.composition.type=gpu 
+debug.hwui.renderer=opengl
 
 #VoLTE
 persist.vendor.volte_support=0
