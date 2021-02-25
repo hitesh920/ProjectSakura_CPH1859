@@ -98,3 +98,7 @@ debug.composition.type=gpu
 #VoLTE
 persist.vendor.volte_support=0
 persist.vendor.mtk.volte.enable=0
+
+#Enable Surface Flinger
+PRODUCT_PROPERTY_OVERRIDES += \ 
+debug.sf.latch_unsignaled=1
